@@ -7,6 +7,10 @@ Clients can tune in on port 4001.
 This is just a little experiment.
 
 
-# Tune in
+# Usage
 
+    // Start server
+    node app.js
+
+    // Tune in as a client
     telnet localhost 4001
